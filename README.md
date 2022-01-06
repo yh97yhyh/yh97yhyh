@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yh97yhyh&show_icons=true&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh97yhyh&layout=compact&theme=omni)
   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+
+  
 </div>
