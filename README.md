@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Hi there 👋
 
 <!--
@@ -18,3 +20,5 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yh97yhyh&show_icons=true&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh97yhyh&layout=compact&theme=omni)
+  
+</div>
