@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 <br>
   
-<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zero-log.tistory.com/)](https://zero-log.tistory.com/) -->
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zero-log.tistory.com/)](https://zero-log.tistory.com/)
 
 <!-- ---
   
