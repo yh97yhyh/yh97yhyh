@@ -2,7 +2,7 @@
   
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yh97yhyh)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yh97yhyh&show_icons=true&theme=dracula)
 
 #### 👩‍💻 Tech Stack 👩‍💻
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -21,9 +21,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
-#### 📚 Tech Blog 📚
-<div align="center">
-  <a href="https://zero-log.tistory.com">
-  <img src="https://github-readme-tistory-card.vercel.app/api?name=zero-log&theme=default" alt="Tistory's Card">
-</a>
-</div>
+#### 🔥🔥🔥
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=springday9713)](https://solved.ac/springday9713)
+<br>
+<img src="https://duolingo-stats-card.vercel.app/api?username=LQfT829257&theme=dark" alt="Duolingo Stats"/>
