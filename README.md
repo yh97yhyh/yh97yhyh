@@ -28,4 +28,3 @@
 #### 🔥🔥🔥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=springday9713)](https://solved.ac/springday9713)
 <br>
-<img src="https://duolingo-stats-card.vercel.app/api?username=LQfT829257&theme=dracula" alt="Duolingo Stats"/>
